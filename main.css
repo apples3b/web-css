@@ -1,0 +1,11 @@
+.list{
+    color:rgb(139, 85, 4);
+    font-weight: bolder;
+    text-align: justify;
+}
+html{
+    background-color: bisque;
+}
+#contact{
+    color:rgb(216, 4, 4);
+}
